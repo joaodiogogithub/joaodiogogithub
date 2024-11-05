@@ -5,11 +5,13 @@
 
 ### <div align="center">Olá, eu sou João Pedro D.</div>  
   
-Minha jornada como desenvolvedor de software começou em 2014, usando C# para programar jogos, desde então venho me aprimorando a cada dia.<br/>Atualmente venho trabalhando como desenvolvedor fullstack e esse tem sido meu foco principal.
+Minha jornada como desenvolvedor de software começou em 2014, usando C# para programar jogos, desde então venho me aprimorando a cada dia e acompanhando as novas tecnologias da área. <br/>Atualmente venho trabalhando como desenvolvedor fullstack e esse tem sido meu foco principal.
 <br/>  
 
 ## Minha arvore de talentos  
 <table><tr><td valign="top" width="33%">
+
+
 
 ### Front-end  
 <div align="center">  
