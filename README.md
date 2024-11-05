@@ -1,17 +1,15 @@
 <div align="center">
 <img src="https://github.com/joaodiogogithub/joaodiogogithub/blob/main/github-header-image.png">
 </div>  
-
   
-<br/><br/>
+<br/>
 <div align="justify">
 Minha jornada como desenvolvedor de software começou em 2014, usando C# para programar jogos, desde então venho me aprimorando a cada dia e acompanhando as novas tecnologias da área. <br/>Atualmente venho trabalhando como desenvolvedor fullstack, durante minha trajetoria trabalhei com diversos tipos de softwares, sempre visando uma solução personalizada para melhor agradar o cliente. 
-<br/></div><br/>
+<br/></div>
 
 
 ### 🌲 Minha arvore de talentos  
 <table><tr><td valign="center" width="33%">
-
 
 ### 📊 Front-end  
 <div align="center">  
