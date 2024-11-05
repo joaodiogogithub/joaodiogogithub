@@ -3,15 +3,14 @@
 </div>  
 
   
-
 <br/><br/>
 <div align="justify">
 Minha jornada como desenvolvedor de software começou em 2014, usando C# para programar jogos, desde então venho me aprimorando a cada dia e acompanhando as novas tecnologias da área. <br/>Atualmente venho trabalhando como desenvolvedor fullstack, durante minha trajetoria trabalhei com diversos tipos de softwares, sempre visando uma solução personalizada para melhor agradar o cliente. 
-<br/></div><br/><br/>
+<br/></div><br/>
+
 
 ### 🌲 Minha arvore de talentos  
 <table><tr><td valign="center" width="33%">
-
 
 
 ### 📊 Front-end  
@@ -45,8 +44,6 @@ Minha jornada como desenvolvedor de software começou em 2014, usando C# para pr
 <br/> 
   
 
-<br/>  
-
 <br/>
 
 ### 📋 Github Stats  
@@ -63,7 +60,6 @@ Minha jornada como desenvolvedor de software começou em 2014, usando C# para pr
 - 💼 <a href="https://linkedin.com/in/joaopdiogo/" text-decoration: none >Meu linkedin</a>
 
 - 💼 <a href="https://joaodiogo.vercel.app/"  style="text-decoration: none">Meu portifolio</a>
-
 
 <br/>
 
