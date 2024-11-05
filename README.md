@@ -43,17 +43,6 @@ Minha jornada como desenvolvedor de software começou em 2014, usando C# para pr
   <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 </div></td></tr></table>
 <br/> 
-
-
-### Minhas redes 
-<div align="center">
-<a href="https://github.com/joaodiogogithub" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/joaopdiogo/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
   
 
 <br/>  
@@ -73,4 +62,16 @@ Minha jornada como desenvolvedor de software começou em 2014, usando C# para pr
 
 - 💼 <a href="linkedin.com/in/joaopdiogo/" style="text-decoration: none" >Meu linkedin</a>
 
-- 💼 <a hreft="https://joaodiogo.vercel.app/"  style="text-decoration: none">Meu portifolio</a>
+- 💼 <a href="https://joaodiogo.vercel.app/"  style="text-decoration: none">Meu portifolio</a>
+
+
+
+### Minhas redes 
+<div align="center">
+<a href="https://github.com/joaodiogogithub" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/joaopdiogo/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
