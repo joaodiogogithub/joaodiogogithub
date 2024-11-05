@@ -71,6 +71,6 @@ Minha jornada como desenvolvedor de software começou em 2014, usando C# para pr
 
 ### 📞 Como entrar em contato comigo:
 
-- 💼 <a href="linkedin.com/in/joaopdiogo/" text-decoration: none >Meu linkedin</a>
+- 💼 <a href="linkedin.com/in/joaopdiogo/" style="text-decoration: none" >Meu linkedin</a>
 
-- 
+- 💼 <a hreft="https://joaodiogo.vercel.app/"  style="text-decoration: none">Meu portifolio</a>
