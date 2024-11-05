@@ -60,6 +60,3 @@ Minha jornada como desenvolvedor de software começou em 2014, usando C# para pr
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>
-
-![image](https://github.com/user-attachments/assets/faa3ef67-6b92-4614-b138-1d5e26adba36)
-
