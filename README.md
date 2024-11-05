@@ -42,10 +42,10 @@ Minha jornada como desenvolvedor de software começou em 2014, usando C# para pr
   <a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" /></a>  
   <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 </div></td></tr></table>
-<br/>
+<br/> 
 
 
-### Connect with me  
+### Minhas redes 
 <div align="center">
 <a href="https://github.com/joaodiogogithub" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -67,6 +67,10 @@ Minha jornada como desenvolvedor de software começou em 2014, usando C# para pr
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=joaodiogogithub&&style=flat-square" align="center" />
 </div>  
-  
-
 <br/>  
+
+### 📞 Como entrar em contato comigo:
+
+- 💼 <a href="linkedin.com/in/joaopdiogo/" text-decoration: none >Meu linkedin</a>
+
+- 
