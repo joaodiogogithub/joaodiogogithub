@@ -9,7 +9,7 @@
 - ⌨️ At the moment working with: React.js, TypeScript, Next,js, TailWind CSS, Node.js.  
   
 
-- 📖 Here is some of my projects <a href="https://github.com/joaodiogogithub">joaodiogogithub</a>
+- 📖 Here is some of my projects <a href="https://joaodiogo.vercel.app/">joaodiogogithub</a>
   
 
 - ✉️ How to contact me: joaodiogoemail@gmail.com  
