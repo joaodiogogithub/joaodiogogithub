@@ -1,5 +1,5 @@
 <div align="center">
-![github-header-image](https://github.com/user-attachments/assets/77fa1fcf-f1a8-4d94-817f-a140beeb3088)
+<img src="https://github.com/joaodiogogithub/joaodiogogithub/blob/main/github-header-image.png">
 </div>  
 
   
