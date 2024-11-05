@@ -1,6 +1,7 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" align="center" style="width: 100%" />
+<img src="![github-header-image](https://github.com/user-attachments/assets/83f3dac6-5936-4395-ba8e-1a08eccd708e)" align="center" style="width: 100%" />
 </div>  
+
   
 
 ### <div align="center">Olá, eu sou João Pedro D.</div>  
