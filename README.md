@@ -66,6 +66,7 @@ Minha jornada como desenvolvedor de software começou em 2014, usando C# para pr
 
 
 <br/>
+
 ### 🌐 Minhas redes 
 <div align="center">
 <a href="https://github.com/joaodiogogithub" target="_blank">
