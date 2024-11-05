@@ -45,7 +45,7 @@ Minha jornada como desenvolvedor de software começou em 2014, usando C# para pr
 <br/>
 
 
-## Connect with me  
+### Connect with me  
 <div align="center">
 <a href="https://github.com/joaodiogogithub" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -59,7 +59,7 @@ Minha jornada como desenvolvedor de software começou em 2014, usando C# para pr
 <br/>  
 
 <br/>
-## Github Stats  
+### Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=joaodiogogithub&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
@@ -70,6 +70,3 @@ Minha jornada como desenvolvedor de software começou em 2014, usando C# para pr
   
 
 <br/>  
-
-<div align="center"></div>
-<br />
