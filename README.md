@@ -10,7 +10,7 @@ Minha jornada como desenvolvedor de software começou em 2014, usando C# para pr
 <br/></div><br/><br/>
 
 ## Minha arvore de talentos  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="space-between" width="33%">
 
 
 
