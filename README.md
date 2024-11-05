@@ -10,7 +10,7 @@ Minha jornada como desenvolvedor de software começou em 2014, usando C# para pr
 <br/></div><br/><br/>
 
 ## Minha arvore de talentos  
-<table><tr><td valign="space-between" width="33%">
+<table><tr><td align="space-between" width="33%">
 
 
 
@@ -42,7 +42,6 @@ Minha jornada como desenvolvedor de software começou em 2014, usando C# para pr
   <a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" /></a>  
   <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 </div>
-<br/>
 <br/>
 
 
