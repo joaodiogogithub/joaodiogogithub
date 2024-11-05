@@ -6,7 +6,7 @@
 
 <br/><br/>
 <div align="center">
-Minha jornada como desenvolvedor de software começou em 2014, usando C# para programar jogos, desde então venho me aprimorando a cada dia e acompanhando as novas tecnologias da área. <br/>Atualmente venho trabalhando como desenvolvedor fullstack e esse tem sido meu foco principal.
+Minha jornada como desenvolvedor de software começou em 2014, usando C# para programar jogos, desde então venho me aprimorando a cada dia e acompanhando as novas tecnologias da área. <br/>Atualmente venho trabalhando como desenvolvedor fullstack, durante minha trajetoria trabalhei com diversos tipos de softwares, sempre visando uma solução personalizada para melhor agradar o cliente. 
 <br/></div><br/><br/>
 
 ## Minha arvore de talentos  
