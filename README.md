@@ -47,16 +47,13 @@ Minha jornada como desenvolvedor de software começou em 2014, usando C# para pr
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=joaodiogogithub&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=joaodiogogithub&&style=flat-square" align="center" />
-</div>  
-<br/>  
 
 ### 📞 Como entrar em contato comigo:
 
 - 💼 <a href="https://linkedin.com/in/joaopdiogo/" text-decoration: none >Meu linkedin</a>
 
 - 💼 <a href="https://joaodiogo.vercel.app/"  style="text-decoration: none">Meu portifolio</a>
+<br/>
 
 ### 🌐 Minhas redes 
 <div align="center">
