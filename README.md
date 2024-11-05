@@ -42,9 +42,6 @@ Minha jornada como desenvolvedor de software começou em 2014, usando C# para pr
   <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 </div></td></tr></table>
 <br/> 
-  
-
-<br/>
 
 ### 📋 Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=joaodiogogithub&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
@@ -60,8 +57,6 @@ Minha jornada como desenvolvedor de software começou em 2014, usando C# para pr
 - 💼 <a href="https://linkedin.com/in/joaopdiogo/" text-decoration: none >Meu linkedin</a>
 
 - 💼 <a href="https://joaodiogo.vercel.app/"  style="text-decoration: none">Meu portifolio</a>
-
-<br/>
 
 ### 🌐 Minhas redes 
 <div align="center">
