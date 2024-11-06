@@ -25,6 +25,13 @@ My journey as a software developer began in 2014, using C# to program games, sin
 <br/></div>
 
 
+### 📞 How to contact me:
+
+- 💼 <a href="https://linkedin.com/in/joaopdiogo/" text-decoration: none >My linkedin</a>
+
+- 💼 <a href="https://joaodiogo.vercel.app/"  style="text-decoration: none">My portifolio</a>
+<br/>
+
 ### 🌲 My skill three  
 <table><tr><td valign="center" width="33%">
 
@@ -68,12 +75,6 @@ My journey as a software developer began in 2014, using C# to program games, sin
   </a>
 </div>
 
-### 📞 How to contact me:
-
-- 💼 <a href="https://linkedin.com/in/joaopdiogo/" text-decoration: none >My linkedin</a>
-
-- 💼 <a href="https://joaodiogo.vercel.app/"  style="text-decoration: none">My portifolio</a>
-<br/>
 
 ### 🌐 My networks:
 <div align="center">
