@@ -18,7 +18,6 @@
   </tr>
 </table>
 <br/>
-<br/>
 
 <div align="justify">
 Minha jornada como desenvolvedor de software começou em 2014, usando C# para programar jogos, desde então venho me aprimorando a cada dia e acompanhando as novas tecnologias da área. <br/>Atualmente venho trabalhando como desenvolvedor fullstack, durante minha trajetoria trabalhei com diversos tipos de softwares, sempre visando uma solução personalizada para melhor agradar o cliente. 
