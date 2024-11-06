@@ -42,7 +42,7 @@ Minha jornada como desenvolvedor de software começou em 2014, usando C# para pr
 <br/> 
 
 ### 📋 Github Stats
-<div valign:space_between>
+<div m-5>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joaodiogogithub" />
   </a>
