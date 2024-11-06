@@ -2,6 +2,7 @@
 <img src="https://github.com/joaodiogogithub/joaodiogogithub/blob/main/github-header-image.png">
 </div>
 
+<br/>
 <table align="center">
   <tr>
     <td height="43px">
