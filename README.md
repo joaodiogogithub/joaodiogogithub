@@ -45,7 +45,8 @@ Minha jornada como desenvolvedor de software começou em 2014, usando C# para pr
 <div valign="center" width="33%">
   <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=joaodiogogithub&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
   <br/>
-  
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaodiogogithub)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaodiogogithub)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
