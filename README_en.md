@@ -29,9 +29,7 @@ I am always looking for new challenges and learning opportunities, as I believe 
 <br/></div>
 
 
-### 📞 How to contact me:
-
-- 💼 <a href="https://linkedin.com/in/joaopdiogo/" text-decoration: none >My linkedin</a>
+### 💼 Here you can find some projects:
 
 - 💼 <a href="https://joaodiogo.vercel.app/"  style="text-decoration: none">My portifolio</a>
 <br/>
