@@ -20,14 +20,19 @@
 <br/>
 
 <div align="justify">
-Minha jornada como desenvolvedor de software começou em 2014, usando C# para programar jogos, desde então venho me aprimorando a cada dia e acompanhando as novas tecnologias da área. <br/>Atualmente venho trabalhando como desenvolvedor fullstack, durante minha trajetoria trabalhei com diversos tipos de softwares, sempre visando uma solução personalizada para melhor agradar o cliente. 
+Meu percurso como desenvolvedor de software teve início em 2014, quando comecei a programar jogos utilizando a linguagem C#. Desde então, venho me aprimorando constantemente e acompanhando as novas tecnologias da área.
+            <br/>Atualmente, atuo como desenvolvedor fullstack, com experiência em diversos tipos de software. Durante minha trajetória, sempre busquei oferecer soluções personalizadas, visando atender melhor as necessidades dos clientes.
+            <br/>Ao longo desses anos, adquiri um sólido conhecimento técnico, adquirindo habilidades em diversas linguagens e frameworks. Meu foco é entregar aplicações de alta qualidade, com um design intuitivo e uma experiência do usuário aprimorada.
+            <br/>Além das competências técnicas, desenvolvi também habilidades interpessoais, como trabalho em equipe, comunicação eficaz e adaptabilidade a diferentes ambientes de trabalho. Essas características me permitem colaborar de maneira assertiva com colegas de equipe e stakeholders.
+            <br/>Estou sempre em busca de novos desafios e oportunidades de aprendizado, pois acredito que o crescimento profissional é um processo contínuo. Meu objetivo é contribuir cada vez mais para o sucesso de projetos e organizações, aplicando meu conhecimento e paixão pelo desenvolvimento de software.
+          
 <br/></div>
 
 ### 📞 Como entrar em contato comigo:
 
 - 💼 <a href="https://linkedin.com/in/joaopdiogo/" text-decoration: none >Meu linkedin</a>
 
-- 💼 <a href="https://joaodiogo.vercel.app/"  style="text-decoration: none">Meu portifolio</a>
+- 💼 <a href="https://portifolio-joao-pedro.vercel.app/"  style="text-decoration: none">Meu portifolio</a>
 <br/>
 
 
