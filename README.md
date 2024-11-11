@@ -28,9 +28,7 @@ Meu percurso como desenvolvedor de software teve início em 2014, quando comecei
           
 <br/></div>
 
-### 📞 Como entrar em contato comigo:
-
-- 💼 <a href="https://linkedin.com/in/joaopdiogo/" text-decoration: none >Meu linkedin</a>
+### 💼 Aqui você pode encontrar alguns protetos meus:
 
 - 💼 <a href="https://portifolio-joao-pedro.vercel.app/"  style="text-decoration: none">Meu portifolio</a>
 <br/>
