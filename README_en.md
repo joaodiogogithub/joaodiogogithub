@@ -21,7 +21,11 @@
 <br/>
 
 <div align="justify">
-My journey as a software developer began in 2014, using C# to program games, since then I have been improving myself every day and keeping up with new technologies in the area. <br/>Currently I have been working as a fullstack developer, during my career I have worked with different types of software, always aiming for a personalized solution to better please the customer.
+My journey as a software developer began in 2014, when I started programming games using the C# language. Since then, I have been constantly improving myself and keeping up with new technologies in the area.
+Currently, I work as a fullstack developer, with experience in different types of software. During my career, I have always sought to offer personalized solutions, aiming to better meet customer needs.
+Over the years, I have acquired solid technical knowledge, acquiring skills in different languages ​​and frameworks. My focus is to deliver high-quality applications with an intuitive design and an improved user experience.
+In addition to technical skills, I also developed interpersonal skills, such as teamwork, effective communication and adaptability to different work environments. These characteristics allow me to collaborate assertively with teammates and stakeholders.
+I am always looking for new challenges and learning opportunities, as I believe that professional growth is a continuous process. My goal is to increasingly contribute to the success of projects and organizations, applying my knowledge and passion for software development.
 <br/></div>
 
 
